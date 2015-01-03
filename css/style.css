@@ -77,21 +77,21 @@ h1 {
 
 /* ANSWERS */ 
 
-.answerHint {
+/*.answerHint {
 	border: 3px solid red;
 }
-
+*/
 .answerWrapper {
 	width: 40%;
 	height: 30%;
 	display: inline-block;
-	border: 3px solid red;
+	/*border: 3px solid red;*/ 
 	text-align: center;
 	margin-left: -1.55em;
 }
 
 .answerList {
-	border: 3px solid red;
+/*	border: 3px solid red; */ 
 	text-align: left;
 	padding: 1em 0em 1em 5em; 
 }
@@ -152,14 +152,14 @@ li {
 /* Progress and score bar */ 
 
 .progressBarScore {
-	border: 3px solid red;
+/*	border: 3px solid red; */ 
 	margin-top: 2em;
 }
 
 
 /* Progress Text */ 
 .progressBar {
-	border: solid 3px red; 
+/*	border: solid 3px red; */ 
 	display: inline-block;
 	font-family: 'Merriweather', serif;
 }
@@ -349,7 +349,7 @@ li {
 .score {
 	text-align: none;
 	display: inline-block;
-	border: solid 3px red;
+/*	border: solid 3px red; */ 
 	margin-left: 1em; 
 	width: 14em;
 	height: 1em;
